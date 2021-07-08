@@ -1,0 +1,3 @@
+/media/data1/pengqy/Server-master/build/release/CMakeFiles/edit_cache.dir
+/media/data1/pengqy/Server-master/build/release/CMakeFiles/rebuild_cache.dir
+/media/data1/pengqy/Server-master/build/release/CMakeFiles/WebServer.dir
