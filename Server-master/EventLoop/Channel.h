@@ -16,7 +16,7 @@
 class Channel
 {
 public:
-    typedef std::function<void()> EventCallBack;
+    typedef std::function<void()> EventCallBack;//这是一个模板类，<>里面的void()代表函数类型是一个无参数，返回值为void的函数
     Channel(EventLoop *loop, int fd);
     int getFd();
 	void setFd(int fd);
